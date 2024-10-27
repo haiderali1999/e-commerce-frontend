@@ -47,7 +47,7 @@ The e-commerce starter includes the following features:
 
 We welcome contributions to improve and enhance this e-commerce starter project. If you find any issues or have suggestions for improvements, feel free to open a GitHub issue or submit a pull request.
 
-## Demo Pages
+<!-- ## Demo Pages
 
 Here are some demo pages to showcase the different features of the e-commerce starter:
 
@@ -57,4 +57,4 @@ Here are some demo pages to showcase the different features of the e-commerce st
 - [Cart Page](https://e-commerce-starter-git-master-ateeqshareef11.vercel.app/cart)
 - [Dashboard](https://e-commerce-starter-git-master-ateeqshareef11.vercel.app/dashboard/app)
 
-Happy coding! 🚀
+Happy coding! 🚀 -->
